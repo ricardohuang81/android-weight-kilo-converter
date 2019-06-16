@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Medical Calculator by Ricky Huang</string>
+    <string name="title">Convert Patient Weight</string>
+    <string name="subtitle">Weight of Patient</string>
+    <string name="convert">Convert Weight</string>
+    <string name="item1">Convert Pounds to Kilogram</string>
+    <string name="item2">Convert Kilograms to Pounds</string>
+</resources>
